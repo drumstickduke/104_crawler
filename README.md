@@ -6,5 +6,5 @@
 * Using the unicode utf-8-sig can display on the csv when you open the excel.
 
 ## You have to click this picture to zoom in.
-![image](https://user-images.githubusercontent.com/53245830/125730225-2ba90743-b632-4956-919c-b96294e347c7.png)
 
+![image](https://user-images.githubusercontent.com/53245830/125769164-8fabc498-5dba-41ae-9ddd-02311a68bebe.png)
